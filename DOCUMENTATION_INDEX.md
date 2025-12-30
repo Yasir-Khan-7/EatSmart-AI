@@ -192,3 +192,5 @@ npm run lint
 
 **Project Location**: `/Users/muhammadyasirkhan/Desktop/Personal/Github/EatSmart-AI`
 
+
+

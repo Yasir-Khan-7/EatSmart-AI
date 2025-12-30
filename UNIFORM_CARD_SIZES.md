@@ -88,3 +88,5 @@ Col 1      Col 2      Col 3-4 (merged)
 
 All cards now have **identical 280px height** matching your Figma design exactly!
 
+
+

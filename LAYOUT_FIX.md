@@ -69,3 +69,5 @@ The layout now **exactly matches your Figma design** with the proper bento grid 
 
 **Refresh your browser to see the changes!** 🎉
 
+
+

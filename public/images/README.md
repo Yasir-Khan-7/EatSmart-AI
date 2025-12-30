@@ -20,3 +20,5 @@ Based on the design, the following images need to be exported from Figma:
 - Bicycle icon
 - Meal/plate icon
 
+
+

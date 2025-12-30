@@ -80,3 +80,5 @@ If you have issues exporting from Figma:
 2. Try using the keyboard shortcut: Select image + CMD+SHIFT+E (Mac) or CTRL+SHIFT+E (Windows)
 3. Check Figma's export documentation: https://help.figma.com/hc/en-us/articles/360040028114-Export-frames-and-objects
 
+
+
